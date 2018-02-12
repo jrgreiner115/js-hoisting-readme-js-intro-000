@@ -6,14 +6,14 @@ function callMe() {
   console.log("so call me");
   return lyric;
 }
-
+console.log("hey!!!");
 
 function crazy() {
   var thisIsCrazy = function (){
     console.log("hey!!!");
   }
 }
-}
+crazy();
 
 function sayMyName() {
   // fix the code in here:
