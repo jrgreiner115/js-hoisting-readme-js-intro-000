@@ -1,4 +1,4 @@
-lyric = "maybe";
+var lyric = "maybe";
 function callMe() {
   console.log("I just met you...");
   console.log("and this is crazy..");
